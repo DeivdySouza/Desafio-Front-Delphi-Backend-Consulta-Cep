@@ -1,0 +1,15 @@
+program ViaCEP;
+uses
+  Vcl.Forms,
+  UPrincipal in '..\ViaCEPXML-master\ViaCEPXML-master\Fontes\UPrincipal.pas' {FrmPrincipal},
+  Controller.CepV in '..\ViaCEPXML-master\ViaCEPXML-master\Fontes\Controller\Controller.CepV.pas',
+  Module.Dbfire in '..\ViaCEPXML-master\ViaCEPXML-master\Fontes\Module\Module.Dbfire.pas' {DataModule1: TDataModule};
+
+{$R *.res}
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.Run;
+end.

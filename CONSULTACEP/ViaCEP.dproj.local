@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/04 19:11:44.000.356,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Interfaces\UViaCEP.Intf.pas=</Transaction>
+    <Transaction>2024/04/04 19:11:51.000.203,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Implementacoes\UViaCEP.Impl.pas=</Transaction>
+    <Transaction>2024/04/04 21:28:53.000.253,=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 21:29:22.000.880,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Implementacoes\Imp.cep.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 21:41:27.000.552,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Implementacoes\ConsultaCep.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Implementacoes\Imp.cep.pas</Transaction>
+    <Transaction>2024/04/04 21:44:40.000.427,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Implementacoes\ConsultaCep.pas=</Transaction>
+    <Transaction>2024/04/04 22:34:36.000.117,=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 22:35:17.000.120,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Controller\Controller.Cep.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 22:35:56.000.261,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Controller\Controller.CepV.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Controller\Controller.Cep.pas</Transaction>
+    <Transaction>2024/04/04 23:30:42.000.839,=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 23:31:17.000.832,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Controller\Controller.Dbfire.pas</Transaction>
+    <Transaction>2024/04/04 23:33:15.000.829,=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 23:34:20.000.367,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.dfm=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Module\Module.Dbfire.dfm</Transaction>
+    <Transaction>2024/04/04 23:34:20.000.367,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Unit1.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Module\Module.Dbfire.pas</Transaction>
+    <Transaction>2024/04/04 23:51:36.373,D:\ZANELATTO INFORMATICA\CONSULTACEP\ViaCEP.dproj=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\ViaCEP.dproj</Transaction>
+    <Transaction>2024/04/04 23:51:56.096,D:\ZANELATTO INFORMATICA\CONSULTACEP\UPrincipal.dfm=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\UPrincipal.dfm</Transaction>
+    <Transaction>2024/04/04 23:51:56.096,D:\ZANELATTO INFORMATICA\CONSULTACEP\UPrincipal.pas=D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\UPrincipal.pas</Transaction>
+    <Transaction>2024/04/04 23:54:11.240,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Controller\Controller.CepV.pas=</Transaction>
+    <Transaction>2024/04/04 23:54:19.890,D:\ZANELATTO INFORMATICA\ViaCEPXML-master\ViaCEPXML-master\Fontes\Module\Module.Dbfire.pas=</Transaction>
+    <Transaction>2024/04/04 23:54:45.664,=D:\ZANELATTO INFORMATICA\CONSULTACEP\Module\Module.Dbfire.pas</Transaction>
+    <Transaction>2024/04/04 23:54:54.833,=D:\ZANELATTO INFORMATICA\CONSULTACEP\Controller\Controller.CepV.pas</Transaction>
+  </Transactions>
+</BorlandProject>
